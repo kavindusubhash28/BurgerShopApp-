@@ -1,64 +1,41 @@
-🍔 BurgerShopApp
+# 🍔 BurgerShopApp  
 
-A Java Swing desktop application developed as part of the OOP assignment at ICET.
-The project simulates a simple burger shop system with order management, customer search, and best customer tracking.
+A **Java Swing desktop application** developed as part of the **OOP assignment at ICET**.  
+The project simulates a burger shop system with **order management, customer search, and best customer tracking**.  
 
-📖 Project Overview
+---
 
-This application demonstrates Object-Oriented Programming (OOP) principles using Java and a graphical user interface with Swing.
-It is designed as an assignment project to practice event handling, JTable management, and class-based modular coding.
+## 📖 Project Overview  
+This application demonstrates **Object-Oriented Programming (OOP)** principles using **Java** and a graphical user interface with **Swing**.  
+It is designed to practice:  
+- ✅ Event Handling  
+- ✅ JTable Management  
+- ✅ Class-based Modular Coding  
 
-✨ Features
+---
 
-🛒 Place Order – Automatically generates Order ID and Customer ID
+## ✨ Features  
+- 🛒 **Place Order** – Automatically generates *Order ID* and *Customer ID*  
+- 👤 **Search Customer** – Retrieve all orders placed by a given customer  
+- 🔍 **Search Order** – Find order details by *Order ID*  
+- 🏆 **Best Customer** – Identify the customer with the highest total purchases  
+- 📊 **Order Table Management** – Display orders neatly using `JTable`  
 
-👤 Search Customer – Retrieve all orders placed by a given customer
+---
 
-🔍 Search Order – Find order details by Order ID
+## 🛠️ Tech Stack  
+- ☕ **Java (JDK 17 or above recommended)**  
+- 🎨 **Java Swing (GUI Framework)**  
+- 📑 **JTable + DefaultTableModel** for order handling  
 
-🏆 Best Customer – Identify the customer with the highest total purchases
+---
 
-📊 Table Management – Orders displayed neatly using JTable
+## 🚀 Getting Started  
 
-🛠️ Tech Stack
+### ✅ Prerequisites  
+- Install [Java JDK 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)  
+- IDE (IntelliJ IDEA, Eclipse, or NetBeans)  
 
-Language: Java (JDK 17 or above recommended)
-
-GUI Framework: Java Swing
-
-Table Handling: JTable with DefaultTableModel
-
-🚀 Getting Started
-Prerequisites
-
-Install Java JDK 17+
-
-IDE (e.g., IntelliJ IDEA, Eclipse, or NetBeans)
-
-Run the Application
-
-Clone the repository:
-
+### ▶️ Run the Application  
+```bash
 git clone https://github.com/your-username/BurgerShopApp.git
-
-
-Open the project in your IDE.
-
-Compile and run BurgerShopApp.java.
-
-📸 Screenshots
-
-(Add your app screenshots here – UI of placing order, order table, etc.)
-
-🎓 Assignment Details
-
-Module: Object-Oriented Programming (OOP)
-
-Institution: ICET
-
-Type: Coursework Assignment
-
-📌 Author
-
-👨‍💻 Kavindu Rajapaksha
-Student at ICET | BSc (Hons) Computer Science
